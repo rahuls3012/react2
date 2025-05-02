@@ -1,0 +1,15 @@
+.card{
+  color: black;
+  background-color: rgb(183, 235, 171);
+  text-align: center;
+  margin: 10px;
+  width: 200px;
+  position: relative;
+  top: 10px;
+  
+  display: inline-block;
+}
+.card img{
+  width: 150px;
+  padding: 20px;
+}
