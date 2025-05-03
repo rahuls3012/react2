@@ -4,8 +4,9 @@
   text-align: center;
   margin: 10px;
   width: 200px;
-  position: relative;
-  top: 10px;
+  display: flex;
+  
+  
   
   display: inline-block;
 }
